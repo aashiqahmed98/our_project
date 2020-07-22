@@ -1,12 +1,15 @@
 import React, { Component } from "react";
 
+import "./navbar.css"
+
 class NavBar extends Component {
   state = {};
   render() {
     return (
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand" href="#">
-          Company Name
+        <a className="navbar-brand" id="companyname" href="#">
+        Company Name
+
         </a>
         <button
           className="navbar-toggler"
@@ -29,12 +32,12 @@ class NavBar extends Component {
             </li>
             <li>
               <a className="nav-link" href="#">
-                Contanct Us
+                Contact Us
               </a>
             </li>
             <li>
               <a className="nav-link" href="#">
-                About Us
+                About
               </a>
             </li>
           </ul>

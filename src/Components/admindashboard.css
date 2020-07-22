@@ -1,0 +1,10 @@
+.post-btn {
+    width: 66%;
+    /* text-align: center; */
+
+}
+
+label {
+    text-align: left  !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
