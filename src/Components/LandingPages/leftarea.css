@@ -1,0 +1,10 @@
+.left-card {
+    height: 30rem;
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+    border: 1px solid#0067DF;
+    border-radius: 2.5%;
+    background-color: #CCE4FC;
+    padding: 5%;
+}

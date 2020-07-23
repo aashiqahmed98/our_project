@@ -21,44 +21,7 @@ code {
     monospace;
 }
 
-/* 
-.my-custom-container {
 
-  background-color: antiquewhite;
-  border: 1px solid #c3c3c3;
-  display: flex;
-  flex-wrap: wrap;
-
-} */
-
-.left-card {
-  height: 30rem;
-  overflow-y: auto;
-  position: sticky;
-  top: 0;
-  border: 1px solid#0067DF;
-  border-radius: 2.5%;
-  background-color: #CCE4FC;
-  padding: 5%;
-}
-
-
-.right-card {
-  height: 30rem;
-  overflow-y: auto;
-  position: sticky;
-  top: 0;
-  border: 1px solid #E6EAEC;
-  border-radius: 3%;
-  padding: 5%;
-
-}
-
-.center-card {
-  height: 50rem;
-  position: relative;
-
-}
 
 
 

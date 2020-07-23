@@ -1,0 +1,10 @@
+.right-card {
+    height: 30rem;
+    overflow-y: auto;
+    position: sticky;
+    top: 0;
+    border: 1px solid #E6EAEC;
+    border-radius: 3%;
+    padding: 5%;
+  
+  }
